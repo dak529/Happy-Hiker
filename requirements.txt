@@ -1,0 +1,8 @@
+
+
+  
+# requirements.txt
+
+python-dotenv
+requests
+sendgrid==6.0.5
